@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "976284110060",
+    "firebase_url": "https://myfirebasenotification-a2db1.firebaseio.com",
+    "project_id": "myfirebasenotification-a2db1",
+    "storage_bucket": "myfirebasenotification-a2db1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976284110060:android:b05599ed2415b4cd",
+        "android_client_info": {
+          "package_name": "com.example.mayank.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976284110060-hcn4ahall0b4133kik16looa2nqqmrho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc4330BDQGfU3NWL1NvkHVWjIEXXiUzE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
